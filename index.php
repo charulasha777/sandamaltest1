@@ -58,7 +58,7 @@
 
 
 <div class="jumbotron ">
-  <h1 class="text-center">My First Bootstrap Page</h1>
+  <h1 class="text-center">My First Bootstrap Page 2</h1>
   <p class="text-center">This part is inside a .container class.</p> 
   <p class="text-center">The .container class provides a responsive fixed width container.</p>
   <p class="text-center">Resize the browser window to see that its width (max-width) will change at different breakpoints.</p>
