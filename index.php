@@ -14,7 +14,7 @@
 
 
 <div class="container-fluid p-3  bg-dark text-white">
-  <h1 class="text-center">Work Together</h1>
+  <h1 class="text-center">Work Together - single</h1>
   <p class="text-center">By Charulasha Gunawardana.</p>
 </div>
 
